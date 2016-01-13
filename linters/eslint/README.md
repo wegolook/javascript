@@ -10,7 +10,7 @@ Copy [node.eslintrc](node.eslintrc) into `.eslintrc` for your project.
 
 * 2-space indentation.
 * Use semicolons.
-* Use single quotes for strings, e.g. `var foo='bar'`.
+* Use single quotes for strings, e.g. `const foo = 'bar'`.
 * Use triple-equal comparisons, e.g. `foo === 'bar'`.
 * `'use strict';` should be at the top of modules.
 * Multiple variable declaration should be on separate lines.
