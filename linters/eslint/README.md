@@ -29,7 +29,7 @@ Copy [node.eslintrc](node.eslintrc) into `.eslintrc` for your project.
   const double = n => n * 2;
   const add = (a, b) => a + b;
   const retrieve = (id, callback) => {
-    DB.retrieve(id, value => (err, value) {
+    DB.retrieve(id, (err, value) => {
       if (err) {
         return callback(err);
       }
