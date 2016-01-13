@@ -67,8 +67,6 @@
         "computed-property-spacing": [2, "never"],
         "func-style": [2, "expression", { "allowArrowFunctions": true }],
         "key-spacing": 2,
-        //"func-names": 2,
-        //"max-nested-callbacks": [2, 2],
         "new-parens": 2,
         "newline-after-var": 2,
         "no-array-constructor": 2,
